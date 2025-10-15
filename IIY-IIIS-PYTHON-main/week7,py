@@ -1,0 +1,6 @@
+num = int(input('enter a number:'))
+for i in range:
+    if( num ==(i ** 0.5)+1 ):
+         print(prime)
+    else:
+        print(not a prime)
